@@ -3,8 +3,9 @@ store all kinds of books
 
 目录
 -----------
-序号|书名|介绍
-1|scikit-learn-docs-0.19|python机器学习package sklearn的官方学习文档(0.19版本)
+| 序号 | 书名 | 介绍 |
+| --------- | --------- | --------- |
+| 1 | scikit-learn-docs-0.19 | python机器学习 package sklearn的官方学习文档(0.19版本) |
 
 说明
 ------------
