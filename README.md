@@ -6,6 +6,7 @@ store all kinds of books
 | 序号 | 书名 | 介绍 |
 | --------- | --------- | --------- |
 | 1 | scikit-learn-docs-0.19 | python机器学习 package sklearn的官方学习文档(0.19版本) |
+| 2 | LTE | LTE中基于S1接口的数据采集系统研究 |
 
 说明
 ------------
