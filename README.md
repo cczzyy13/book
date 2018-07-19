@@ -1,5 +1,5 @@
 # book
-store all kinds of books 
+store some documents
 
 目录
 -----------
@@ -7,8 +7,11 @@ store all kinds of books
 | --------- | --------- | --------- | -------- |
 | 1 | scikit-learn-docs-0.19 | python机器学习 package sklearn的官方学习文档(0.19版本) | |
 | 2 | LTE | LTE中基于S1接口的数据采集系统研究 | |
-| 3 | SQL_Basic_Tutorial | 《SQL基础教程》(日)---高清版 | 已看，内含笔记 |
-| 4 | kalmanfilter | Kalman 滤波器学习笔记 | 已看 |
+| 3 | SQL_Basic_Tutorial | 《SQL基础教程》(日)---高清版 | |
+| 4 | kalmanfilter | Kalman 滤波器学习笔记 |  |
+| 5 | XGBoost | 基于回归树的一种增强方法，广泛用于各大比赛 |  |
+| 6 | Practical_Lessons_from_Predicting_Clicks_on_Ads_at_Facebook | 结合决策树和逻辑回归的广告点击预测混合模型 |  |
+| 7 | Greedy_function_approximation_a_gradient_boosting_machine |  |  |
 说明
 ------------
-仓库中pdf书籍，如有侵权，请与我联系，立删！
+仓库中文档，如有侵权，请与我联系，立删～
