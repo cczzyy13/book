@@ -13,6 +13,8 @@ store some documents
 | 5 | XGBoost | 基于回归树的一种增强方法，广泛用于各大比赛 |  |
 | 6 | Practical_Lessons_from_Predicting_Clicks_on_Ads_at_Facebook | 结合决策树和逻辑回归的广告点击预测混合模型 |  |
 | 7 | Greedy_function_approximation_a_gradient_boosting_machine |  |  |
+| 8 | Programming_Hive | Hive 编程指南| |
+| 9 | Deep_Forest | 深度森林 | |
 
 说明
 ------------
