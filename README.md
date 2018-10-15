@@ -20,3 +20,10 @@ store some documents
 ------------
 仓库中文档，如有侵权，请与我联系，立删～
 
+```python
+import pandas as pd
+
+def toDF(data):
+  data = pd.DataFrame(data)
+  return data
+````
